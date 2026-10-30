@@ -1,0 +1,120 @@
+{
+  "akun": "tinggalbilang.ai",
+  "ig_user_id": "39740158855630292",
+  "zona_waktu": "Asia/Jakarta",
+  "jam_tayang": "19:00",
+  "antrean": [
+    {
+      "tanggal": "2026-10-31",
+      "episode": "t00-perkenalan",
+      "video": "videos/t00-perkenalan.mp4",
+      "kata_kunci": "MULAI",
+      "hadiah": [
+        "https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/MULAI-tabel-perbandingan-tiga-agen-ai.pdf"
+      ],
+      "status": "siap",
+      "caption": "Halo, aku Farid 👋\n\nDi sini aku bagi cara pakai AI buat bikin konten, tanpa harus jago ngoding. Claude, ChatGPT, Gemini, semuanya kita bahas dengan bahasa sehari-hari.\n\nMau mulai dari mana? Komen MULAI, aku kirim tabel perbandingan tiga agen AI lewat DM 👇\n\n#tipsai #aiuntukkonten #kontenkreator #claude #chatgpt #gemini"
+    },
+    {
+      "tanggal": "2026-11-01",
+      "episode": "t02-apa-itu-claude-code",
+      "video": "videos/t02-apa-itu-claude-code.mp4",
+      "kata_kunci": "CLAUDE",
+      "hadiah": [
+        "https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/CLAUDE-panduan-pasang-claude-code.pdf"
+      ],
+      "status": "siap",
+      "caption": "Claude Code itu apa sih, dan bedanya apa sama chat AI biasa?\n\nIntinya: chat AI cuma ngasih jawaban, Claude Code langsung ngerjain di komputermu.\n\nKomen CLAUDE, aku kirim panduan pasang Claude Code langkah demi langkah 👇\n\n#claudecode #claude #anthropic #tipsai #kontenkreator"
+    },
+    {
+      "tanggal": "2026-11-02",
+      "episode": "t07-chatbot-vs-agent",
+      "video": "videos/t07-chatbot-vs-agent.mp4",
+      "kata_kunci": "AGENT",
+      "hadiah": [
+        "https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/AGENT-panduan-mulai-pakai-ai-agent.pdf"
+      ],
+      "status": "siap",
+      "caption": "Chatbot vs AI agent, sebenarnya bedanya apa?\n\nChatbot jawab pertanyaan. Agent nyelesaiin tugas sampai beres.\n\nKomen AGENT, aku kirim panduan mulai pakai AI agent 👇\n\n#aiagent #tipsai #chatgpt #claude #gemini #kontenkreator"
+    },
+    {
+      "tanggal": "2026-11-03",
+      "episode": "t08-chatgpt-projects",
+      "video": "videos/t08-chatgpt-projects.mp4",
+      "kata_kunci": "PROJECT",
+      "hadiah": [
+        "https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/PROJECT-template-instruksi-project-untuk-konten.pdf"
+      ],
+      "status": "siap",
+      "caption": "Capek ngulang gaya kontenmu tiap buka ChatGPT?\n\nPakai ChatGPT Projects: tulis instruksinya sekali, ChatGPT ingat terus.\n\nKomen PROJECT, aku kirim template instruksi project untuk konten 👇\n\n#chatgpt #openai #tipsai #kontenkreator #aiuntukkonten"
+    },
+    {
+      "tanggal": "2026-11-04",
+      "episode": "t03-claude-md",
+      "video": "videos/t03-claude-md.mp4",
+      "kata_kunci": "GAYA",
+      "hadiah": [
+        "https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/GAYA-ajari-ai-gaya-kontenmu-sekali-saja.pdf",
+        "https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/GAYA-ajari-ai-gaya-kontenmu-sekali-saja.zip"
+      ],
+      "status": "siap",
+      "caption": "Capek ngejelasin gaya kontenmu ke AI setiap kali mulai?\n\nSimpan sekali di CLAUDE.md, Claude Code langsung paham tiap kali dibuka.\n\nKomen GAYA, aku kirim templatenya (CLAUDE.md, AGENTS.md, GEMINI.md) 👇\n\n#claudecode #claude #tipsai #kontenkreator"
+    },
+    {
+      "tanggal": "2026-11-05",
+      "episode": "t09-notebooklm",
+      "video": "videos/t09-notebooklm.mp4",
+      "kata_kunci": "RISET",
+      "hadiah": [
+        "https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/RISET-daftar-pertanyaan-riset-untuk-notebooklm.pdf"
+      ],
+      "status": "siap",
+      "caption": "Riset bahan konten bisa jauh lebih cepat, pakai alat gratis dari Google: NotebookLM.\n\nMasukkan sumbermu, tanya apa aja, jawabannya lengkap dengan rujukan.\n\nKomen RISET, aku kirim daftar pertanyaan riset untuk NotebookLM 👇\n\n#notebooklm #google #gemini #tipsai #kontenkreator"
+    },
+    {
+      "tanggal": "2026-11-06",
+      "episode": "t05-claude-code-vs-codex",
+      "video": "videos/t05-claude-code-vs-codex.mp4",
+      "kata_kunci": "VS",
+      "hadiah": [
+        "https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/VS-claude-code-vs-codex-vs-gemini-cli.pdf"
+      ],
+      "status": "siap",
+      "caption": "Claude Code atau Codex, mending pakai yang mana buat bikin konten?\n\nAku bandingin dari harga, cara pakai, sampai hasilnya.\n\nKomen VS, aku kirim tabel Claude Code vs Codex vs Gemini CLI 👇\n\n#claudecode #codex #geminicli #tipsai #kontenkreator"
+    },
+    {
+      "tanggal": "2026-11-07",
+      "episode": "t04-lima-cara-nyuruh",
+      "video": "videos/t04-lima-cara-nyuruh.mp4",
+      "kata_kunci": "PERINTAH",
+      "hadiah": [
+        "https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/PERINTAH-5-cara-nyuruh-agen-ai-lengkap-dengan-contoh.pdf"
+      ],
+      "status": "siap",
+      "caption": "Hasil Claude Code kamu kurang bagus? Mungkin cara nyuruhnya yang perlu diubah.\n\nIni 5 cara nyuruh yang bikin hasilnya jauh lebih rapi.\n\nKomen PERINTAH, aku kirim 5 cara lengkap dengan contohnya 👇\n\n#claudecode #prompt #tipsai #kontenkreator"
+    },
+    {
+      "tanggal": "2026-11-08",
+      "episode": "t06-30-video-sekaligus",
+      "video": "videos/t06-30-video-sekaligus.mp4",
+      "kata_kunci": "30",
+      "hadiah": [
+        "https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/30-template-30-video-sekaligus.pdf",
+        "https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/30-template-30-video-sekaligus.zip"
+      ],
+      "status": "siap",
+      "caption": "Gimana caranya bikin 30 video dalam sekali jalan?\n\nSatu file naskah, satu perintah, Claude Code yang ngerjain sisanya.\n\nKomen 30, aku kirim template 30 video sekaligus 👇\n\n#claudecode #remotion #tipsai #kontenkreator"
+    },
+    {
+      "tanggal": "2026-11-09",
+      "episode": "t01-video-tanpa-coding",
+      "video": "videos/t01-video-tanpa-coding.mp4",
+      "kata_kunci": "KODE",
+      "hadiah": [
+        "https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/KODE-daftar-prompt-bikin-video-reels-pakai-claude-code.pdf"
+      ],
+      "status": "siap",
+      "caption": "Gimana caranya bikin video kayak gini, tanpa bisa coding?\n\nVideo ini dibikin Claude Code. Aku cuma ngetik apa maunya.\n\nKomen KODE, aku kirim daftar prompt bikin video Reels pakai Claude Code 👇\n\n#claudecode #claude #videoai #tipsai #kontenkreator"
+    }
+  ]
+}
