@@ -7,10 +7,10 @@ Batas paket gratis: 4 otomatisasi aktif, pemicu komentar hanya untuk satu Reel t
 | Otomatisasi | Pemicu | Isi DM |
 |---|---|---|
 | **Hadiah (semua kata kunci)** | *DMs you* + *replies to a story*, kata kunci: semua 10 kata kunci (`MULAI, CLAUDE, AGENT, PROJECT, GAYA, RISET, VS, PERINTAH, 30, KODE`, huruf besar dan kecil) | DM pembuka → tombol ke halaman semua hadiah: https://github.com/buyaghu/tinggalbilang-media/tree/main/hadiah |
-| **Reel terbaru 1–3** | *Comments on a specific post or reel* (3 Reel terbaru), kata kunci Reel itu | Balasan publik + DM hadiah khusus kata kunci itu (tabel di bawah) |
 
-Setiap ada Reel baru (setelah tayang 19.00 WIB): buka otomatisasi Reel paling lama → **Edit** → ganti Reel dan kata kuncinya ke Reel baru, ganti teks dan link DM → **Update**.
-Komentar di Reel yang lebih lama dibalas publik: `Kirim DM "KATA" ke aku ya, filenya langsung terkirim otomatis 📩`.
+Komentar kata kunci di semua Reel tidak ditangani ManyChat, tetapi dibalas publik oleh scheduled task Claude
+(lihat `KOMENTAR.md`): `Kirim DM "KATA" ke aku ya, filenya langsung terkirim otomatis 📩`. Setelah orang itu
+kirim DM, otomatisasi di atas yang mengirim hadiahnya. Tidak ada pengaturan harian di ManyChat.
 
 ## Paket Pro (kalau nanti upgrade)
 
