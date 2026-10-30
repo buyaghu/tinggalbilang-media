@@ -6,7 +6,7 @@ Batas paket gratis: 4 otomatisasi aktif, pemicu komentar hanya untuk satu Reel t
 
 | Otomatisasi | Pemicu | Isi DM |
 |---|---|---|
-| **Hadiah (semua kata kunci)** | *DMs you* + *replies to a story*, kata kunci: semua 10 kata kunci (`MULAI, CLAUDE, AGENT, PROJECT, GAYA, RISET, VS, PERINTAH, 30, KODE`; maksimal 10 per pemicu) + pemicu kedua untuk `FAKTA` + pemicu ketiga untuk batch 2 (`VISUAL, GEMS, BRAND, SERI, REPURPOSE, TREN, LATIHAN, KALENDER, PODCAST, SALAH`) | DM pembuka → tombol ke halaman semua hadiah: https://github.com/buyaghu/tinggalbilang-media/tree/main/hadiah |
+| **Hadiah (semua kata kunci)** | *DMs you* + *replies to a story*, kata kunci: semua 10 kata kunci (`MULAI, CLAUDE, AGENT, PROJECT, GAYA, RISET, VS, PERINTAH, 30, KODE`; maksimal 10 per pemicu) + pemicu kedua (`FAKTA, VISUAL, GEMS, BRAND, SERI, REPURPOSE, TREN, LATIHAN, KALENDER, PODCAST`) + pemicu ketiga (`SALAH`) | DM pembuka → tombol ke halaman semua hadiah: https://github.com/buyaghu/tinggalbilang-media/tree/main/hadiah |
 
 Komentar kata kunci di semua Reel tidak ditangani ManyChat, tetapi dibalas publik oleh scheduled task Claude
 (lihat `KOMENTAR.md`): `Kirim DM "KATA" ke aku ya, filenya langsung terkirim otomatis 📩`. Setelah orang itu
