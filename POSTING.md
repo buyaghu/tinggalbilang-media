@@ -9,7 +9,7 @@ Ikuti langkah ini persis. Jangan memposting apa pun di luar prosedur ini.
 - Maksimal satu posting per hari. Kalau ada lebih dari satu entri `siap` untuk hari ini, posting yang pertama saja.
 - Jangan memposting ulang entri berstatus `tayang`.
 - **Cegah posting ganda lewat Instagram, bukan hanya lewat status.** Sebelum membuat container, ambil 5 media terakhir (`INSTAGRAM_GET_IG_USER_MEDIA`). Kalau sudah ada postingan dengan baris pertama caption yang sama dengan entri hari ini, anggap sudah tayang: jangan posting, cukup laporkan.
-- Akun Instagram: koneksi Composio dengan username `tinggalbilang.ai` (ig_user_id `39740158855630292`). Ada beberapa akun Instagram lain di Composio, jadi selalu sebutkan akunnya. Sebelum posting, cek dengan `INSTAGRAM_GET_USER_INFO` (`ig_user_id` = `me`) bahwa username-nya `tinggalbilang.ai`. Kalau bukan, berhenti.
+- Akun Instagram: koneksi Composio dengan alias `tinggalbilang`, username `tinggalbilang.ai` (ig_user_id `39740158855630292`). Ada beberapa akun Instagram lain di Composio, jadi selalu sebutkan akunnya. Sebelum posting, cek dengan `INSTAGRAM_GET_USER_INFO` (`ig_user_id` = `me`) bahwa username-nya `tinggalbilang.ai`. Kalau bukan, berhenti.
 
 ## Langkah
 1. Clone `https://github.com/buyaghu/tinggalbilang-media` atau baca `https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/jadwal.json`.
