@@ -10,7 +10,7 @@ Ikuti langkah ini persis. Jangan melakukan apa pun di luar prosedur ini.
 - Hanya membalas komentar. Jangan posting, menghapus, menyembunyikan, atau mengirim DM.
 - Satu balasan per komentar. Jangan balas komentar yang sudah punya balasan dari `tinggalbilang.ai`.
 - Jangan balas komentar dari `tinggalbilang.ai` sendiri.
-- Maksimal 30 balasan per jalan. Sisanya dikerjakan besok.
+- Maksimal 30 balasan per jalan. Sisanya dikerjakan di jalan berikutnya.
 
 ## Kata kunci
 Ambil dari `jadwal.json` (kolom `kata_kunci`, cocokkan dengan `permalink` atau baris pertama caption). Komentar dianggap berisi kata kunci kalau, setelah dibuang spasi dan tanda baca di ujung, sama dengan kata kunci Reel itu tanpa melihat huruf besar/kecil, atau mengandung kata kunci itu sebagai kata utuh. Untuk `30`, `tiga puluh` juga dihitung.
