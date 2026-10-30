@@ -15,5 +15,15 @@ Ketuk nama file untuk membuka, lalu tombol unduh (ikon ⬇️) di kanan atas.
 | 30 | [Template 30 video sekaligus (ZIP)](30-template-30-video-sekaligus.zip) · [versi PDF](30-template-30-video-sekaligus.pdf) |
 | FAKTA | [Template prompt anti ngarang](FAKTA-template-prompt-anti-ngarang.pdf) |
 | KODE | [Daftar prompt bikin video Reels pakai Claude Code](KODE-daftar-prompt-bikin-video-reels-pakai-claude-code.pdf) |
+| VISUAL | [15 prompt thumbnail dan cover Reels](VISUAL-15-prompt-thumbnail-dan-cover-reels.pdf) |
+| GEMS | [Instruksi Gem "Editor Konten" siap salin](GEMS-instruksi-gem-editor-konten-siap-salin.pdf) |
+| BRAND | [Template brand kit untuk Claude Projects](BRAND-template-brand-kit-untuk-claude-projects.pdf) |
+| SERI | [Satu tugas, tiga agent: prompt dan tabel perbandingan](SERI-satu-tugas-tiga-agent-prompt-dan-tabel-perbandingan.pdf) |
+| REPURPOSE | [Prompt repurpose 1 ide jadi 5 format](REPURPOSE-prompt-repurpose-1-ide-jadi-5-format.pdf) |
+| TREN | [Prompt riset tren per niche](TREN-prompt-riset-tren-per-niche.pdf) |
+| LATIHAN | [Skrip latihan ngomong di depan kamera](LATIHAN-skrip-latihan-ngomong-di-depan-kamera.pdf) |
+| KALENDER | [Prompt kalender konten 30 hari](KALENDER-prompt-kalender-konten-30-hari.pdf) |
+| PODCAST | [Panduan Audio Overview NotebookLM](PODCAST-panduan-audio-overview-notebooklm.pdf) |
+| SALAH | [Checklist sebelum posting konten buatan AI](SALAH-checklist-sebelum-posting-konten-buatan-ai.pdf) |
 
 Follow [@tinggalbilang.ai](https://instagram.com/tinggalbilang.ai) biar nggak ketinggalan hadiah berikutnya.

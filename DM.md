@@ -6,7 +6,7 @@ Batas paket gratis: 4 otomatisasi aktif, pemicu komentar hanya untuk satu Reel t
 
 | Otomatisasi | Pemicu | Isi DM |
 |---|---|---|
-| **Hadiah (semua kata kunci)** | *DMs you* + *replies to a story*, kata kunci: semua 10 kata kunci (`MULAI, CLAUDE, AGENT, PROJECT, GAYA, RISET, VS, PERINTAH, 30, KODE`; maksimal 10 per pemicu) + pemicu kedua untuk `FAKTA` | DM pembuka → tombol ke halaman semua hadiah: https://github.com/buyaghu/tinggalbilang-media/tree/main/hadiah |
+| **Hadiah (semua kata kunci)** | *DMs you* + *replies to a story*, kata kunci: semua 10 kata kunci (`MULAI, CLAUDE, AGENT, PROJECT, GAYA, RISET, VS, PERINTAH, 30, KODE`; maksimal 10 per pemicu) + pemicu kedua untuk `FAKTA` + pemicu ketiga untuk batch 2 (`VISUAL, GEMS, BRAND, SERI, REPURPOSE, TREN, LATIHAN, KALENDER, PODCAST, SALAH`) | DM pembuka → tombol ke halaman semua hadiah: https://github.com/buyaghu/tinggalbilang-media/tree/main/hadiah |
 
 Komentar kata kunci di semua Reel tidak ditangani ManyChat, tetapi dibalas publik oleh scheduled task Claude
 (lihat `KOMENTAR.md`): `Kirim DM "KATA" ke aku ya, filenya langsung terkirim otomatis 📩`. Setelah orang itu
@@ -49,6 +49,16 @@ Kalau sudah, ketuk tombol di bawah 👇
 | 30 | Ini template bikin 30 video sekaligus 🎁 Filenya ZIP, ekstrak dulu ya. | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/30-template-30-video-sekaligus.zip |
 | FAKTA | Ini template prompt anti ngarang 🎁 Tempel di awal prompt kamu, biar AI lebih jujur. | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/FAKTA-template-prompt-anti-ngarang.pdf |
 | KODE | Ini daftar prompt bikin video Reels pakai Claude Code 🎁 | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/KODE-daftar-prompt-bikin-video-reels-pakai-claude-code.pdf |
+| VISUAL | Ini 15 prompt thumbnail dan cover Reels buat ChatGPT 🎁 | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/VISUAL-15-prompt-thumbnail-dan-cover-reels.pdf |
+| GEMS | Ini instruksi Gem "Editor Konten" siap salin 🎁 | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/GEMS-instruksi-gem-editor-konten-siap-salin.pdf |
+| BRAND | Ini template brand kit untuk Claude Projects 🎁 | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/BRAND-template-brand-kit-untuk-claude-projects.pdf |
+| SERI | Ini prompt tugasnya dan tabel perbandingan Claude Code, Codex, dan Antigravity 🎁 | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/SERI-satu-tugas-tiga-agent-prompt-dan-tabel-perbandingan.pdf |
+| REPURPOSE | Ini prompt repurpose 1 ide jadi 5 format 🎁 | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/REPURPOSE-prompt-repurpose-1-ide-jadi-5-format.pdf |
+| TREN | Ini daftar prompt riset tren per niche 🎁 | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/TREN-prompt-riset-tren-per-niche.pdf |
+| LATIHAN | Ini skrip latihan ngomong di depan kamera 🎁 | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/LATIHAN-skrip-latihan-ngomong-di-depan-kamera.pdf |
+| KALENDER | Ini prompt kalender konten 30 hari 🎁 | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/KALENDER-prompt-kalender-konten-30-hari.pdf |
+| PODCAST | Ini panduan Audio Overview NotebookLM 🎁 | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/PODCAST-panduan-audio-overview-notebooklm.pdf |
+| SALAH | Ini checklist sebelum posting konten buatan AI 🎁 | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/SALAH-checklist-sebelum-posting-konten-buatan-ai.pdf |
 
 Tutup setiap DM hadiah dengan:
 ```
