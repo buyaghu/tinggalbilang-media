@@ -20,6 +20,17 @@
       "catatan": "Diposting manual dari sesi Claude karena jadwal dimajukan setelah tugas 18.47 lewat."
     },
     {
+      "tanggal": "2026-10-31",
+      "episode": "t10-ai-nggak-ngarang",
+      "video": "videos/t10-ai-nggak-ngarang.mp4",
+      "kata_kunci": "FAKTA",
+      "hadiah": [
+        "https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/FAKTA-template-prompt-anti-ngarang.pdf"
+      ],
+      "status": "siap",
+      "caption": "AI kamu pernah ngarang jawaban? Kelihatan yakin, ternyata salah 😅\n\nTambahkan 3 kalimat ini di prompt:\n1️⃣ Kalau nggak yakin, bilang nggak tahu\n2️⃣ Sebutkan sumbernya\n3️⃣ Jawab hanya dari bahan yang aku kasih\n\nJalan di Claude, ChatGPT, dan Gemini. Tetap cek ulang sebelum dipakai di kontenmu.\n\nKomen FAKTA atau langsung DM FAKTA ke aku, aku kirim template prompt anti ngarang 👇\n\n#tipsai #aiuntukkonten #kontenkreator #prompt #chatgpt #claude"
+    },
+    {
       "tanggal": "2026-11-01",
       "episode": "t02-apa-itu-claude-code",
       "video": "videos/t02-apa-itu-claude-code.mp4",

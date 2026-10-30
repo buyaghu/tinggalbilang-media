@@ -13,6 +13,7 @@ Ketuk nama file untuk membuka, lalu tombol unduh (ikon ⬇️) di kanan atas.
 | VS | [Claude Code vs Codex vs Gemini CLI](VS-claude-code-vs-codex-vs-gemini-cli.pdf) |
 | PERINTAH | [5 cara nyuruh agen AI, lengkap dengan contoh](PERINTAH-5-cara-nyuruh-agen-ai-lengkap-dengan-contoh.pdf) |
 | 30 | [Template 30 video sekaligus (ZIP)](30-template-30-video-sekaligus.zip) · [versi PDF](30-template-30-video-sekaligus.pdf) |
+| FAKTA | [Template prompt anti ngarang](FAKTA-template-prompt-anti-ngarang.pdf) |
 | KODE | [Daftar prompt bikin video Reels pakai Claude Code](KODE-daftar-prompt-bikin-video-reels-pakai-claude-code.pdf) |
 
 Follow [@tinggalbilang.ai](https://instagram.com/tinggalbilang.ai) biar nggak ketinggalan hadiah berikutnya.

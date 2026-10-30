@@ -6,7 +6,7 @@ Batas paket gratis: 4 otomatisasi aktif, pemicu komentar hanya untuk satu Reel t
 
 | Otomatisasi | Pemicu | Isi DM |
 |---|---|---|
-| **Hadiah (semua kata kunci)** | *DMs you* + *replies to a story*, kata kunci: semua 10 kata kunci (`MULAI, CLAUDE, AGENT, PROJECT, GAYA, RISET, VS, PERINTAH, 30, KODE`, huruf besar dan kecil) | DM pembuka → tombol ke halaman semua hadiah: https://github.com/buyaghu/tinggalbilang-media/tree/main/hadiah |
+| **Hadiah (semua kata kunci)** | *DMs you* + *replies to a story*, kata kunci: semua 10 kata kunci (`MULAI, CLAUDE, AGENT, PROJECT, GAYA, RISET, VS, PERINTAH, 30, KODE`; maksimal 10 per pemicu) + pemicu kedua untuk `FAKTA` | DM pembuka → tombol ke halaman semua hadiah: https://github.com/buyaghu/tinggalbilang-media/tree/main/hadiah |
 
 Komentar kata kunci di semua Reel tidak ditangani ManyChat, tetapi dibalas publik oleh scheduled task Claude
 (lihat `KOMENTAR.md`): `Kirim DM "KATA" ke aku ya, filenya langsung terkirim otomatis 📩`. Setelah orang itu
@@ -47,6 +47,7 @@ Kalau sudah, ketuk tombol di bawah 👇
 | VS | Ini tabel Claude Code vs Codex vs Gemini CLI 🎁 | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/VS-claude-code-vs-codex-vs-gemini-cli.pdf |
 | PERINTAH | Ini 5 cara nyuruh agen AI, lengkap dengan contohnya 🎁 | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/PERINTAH-5-cara-nyuruh-agen-ai-lengkap-dengan-contoh.pdf |
 | 30 | Ini template bikin 30 video sekaligus 🎁 Filenya ZIP, ekstrak dulu ya. | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/30-template-30-video-sekaligus.zip |
+| FAKTA | Ini template prompt anti ngarang 🎁 Tempel di awal prompt kamu, biar AI lebih jujur. | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/FAKTA-template-prompt-anti-ngarang.pdf |
 | KODE | Ini daftar prompt bikin video Reels pakai Claude Code 🎁 | https://raw.githubusercontent.com/buyaghu/tinggalbilang-media/main/hadiah/KODE-daftar-prompt-bikin-video-reels-pakai-claude-code.pdf |
 
 Tutup setiap DM hadiah dengan:
