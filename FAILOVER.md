@@ -32,3 +32,9 @@ Tidak pasti: `HOLD_RECONCILE`, **bukan** retry. Sudah terbit: `DONE` immutable k
 
 ## Simulasi aman
 `node scripts/failover-dry-run.mjs`. Hanya simulasi lokal data palsu. Tidak ada network, Meta, GitHub write, maupun scheduler.
+
+## Verifikasi n8n — 2026-11-01
+- Workflow simulasi manual: [Claude Codex Failover Safety DRY RUN](https://heybuyaghu.duckdns.org/workflow/PT6xqsH1tPE2LVJB), id `PT6xqsH1tPE2LVJB`, **inactive**.
+- Run `96275`: berhasil (`success`), `tested=8`, `pass=8`, `all_pass=true`.
+- Semua kasus hanya dummy; tanpa credential, HTTP request, Claude, Codex, Meta, GitHub mutation, atau trigger terjadwal.
+- Hasil ini memvalidasi decision guard simulasi, **bukan** lock atomik nyata, deteksi limit asli, pemicu Codex, atau end-to-end failover produksi.
